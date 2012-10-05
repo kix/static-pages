@@ -1,0 +1,16 @@
+{
+    "name": "kix/static-pages",
+    "description": "A Symfony2 bundle indended to make creation of static pages way more easy.",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Stepan Anchugov",
+            "email": "kixxx1@gmail.com"
+        }
+    ],
+    "require": {},
+    "suggest": {
+        "sonata-project/admin-bundle": "2.1.x",
+        "sonata-project/doctrine-orm-admin-bundle": "dev-master"
+    }
+}

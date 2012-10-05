@@ -1,0 +1,7 @@
+parameters:
+#    kix_static_pages.example.class: Kix\StaticPagesBundle\Example
+
+services:
+#    kix_static_pages.example:
+#        class: %kix_static_pages.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
